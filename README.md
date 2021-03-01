@@ -1,4 +1,5 @@
 # traceroute
+> 网络上的相关文档：http://hanpfei.github.io/2017/04/13/Traceroute%E5%8E%9F%E7%90%86/
 
 This is a new modern implementation of the traceroute(8)
 utility for Linux systems.
